@@ -1,1 +1,1 @@
-web: gunicorn Scripts:Scripts
+web: gunicorn agenda:agenda
