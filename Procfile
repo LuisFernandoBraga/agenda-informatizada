@@ -1,1 +1,1 @@
-web: gunicorn agenda:agenda
+web: gunicorn urls:urls
