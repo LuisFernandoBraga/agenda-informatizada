@@ -9,9 +9,7 @@ from django.contrib.auth.forms import UserCreationForm
 from django.contrib.auth.models import User
 from django.core.exceptions import ValidationError
 from django.contrib import messages
-#from Scripts import reconhecer_voz
-import speech_recognition as sr
-import os
+
 
 
 
